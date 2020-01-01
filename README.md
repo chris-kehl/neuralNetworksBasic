@@ -7,6 +7,6 @@ The data sets can be in the digital-recognizer competition, or the digital-recog
 
 The last few lines we've set the algorithm to attempt to recognize wild numbers that were captured with a cellphone from hand written images and a few images produced with Gimp.  The Gimp images did ok;however, the algorithm struggled with the photos form the cellphone.
 
-In addition, a simple neural network for a baseball game predictions are used.  These came from a simple neural network book I am studying "Grokking Deep Learning" very simple and easy to follow. I am using Google Colab for these notebooks.
+In addition, a simple neural network for a baseball game predictions are used.  These came from a simple neural network book I am studying "Grokking Deep Learning" very simple and easy to follow. I am using Google Colab for these notebooks. We use numpy producing an easier version wih less code for our baseball game prediction.
 
 dot_product_multiplication is code experimenting with simple dot product or matrix multiplication
